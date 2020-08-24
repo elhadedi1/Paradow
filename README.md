@@ -7,6 +7,7 @@
 ### Tools and libraries: 
 #### PHP ----> Laravel (MVC)
 #### MySQL
+#### vue.js
 #### bootstap 
 #### jquery
 #### custom animation
