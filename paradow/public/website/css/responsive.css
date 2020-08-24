@@ -1,0 +1,556 @@
+/* Smartphones (portrait and landscape) ---------- */
+@media screen and (min-width: 320px) and (max-width: 480px){
+    .category .col-md-12{
+        display: block;
+        }
+.slider
+{
+    height:250px;
+}
+.orderTrack #emptyCart
+{
+        margin: 66px -66px;
+    height: 100%;
+     width: 54%;
+    position: relative;
+    left: 40%;
+}
+.navbar li {
+    position: relative;
+    top: 0px;
+}
+.nav {
+    width: 220px !important;
+}
+.photos {
+    height: 1000px;
+}
+.header .ml-auto {
+    margin-left: 0% !important;
+}
+.ml-auto, .mx-auto {
+    margin-left: 10% !important;
+}
+.photos img {
+    position: relative;
+    width: 70%;
+    height: 151px;
+}
+/*.searchBox #cancel {*/
+
+/*    position: relative;*/
+/*    top: -30px;*/
+/*    left: 94%;*/
+/*}*/
+.breadcrumb {
+    display:none !important;
+    /*width: 55px;*/
+    /*right:1px;*/
+}
+/* start catDetails page */
+.catDetails .share-product li {
+    margin: -4px 7px;
+}
+.catDetails ul:first-child {
+
+    left: 11px;
+}
+.catDetails .fa-star {
+position: relative;
+    top: 54px;
+    left: -295px;
+    margin-right: -18px;
+}
+.catDetails .fa-map-marker, .catDetails .fa-calendar, .catDetails .fa-user {
+    top: 15px;
+    position: relative;
+    left: -19px;
+}
+
+.catDetails .detail ul li{
+    font-size: 14px;
+    margin: 16px 14px;
+    line-height: 14px;
+}
+/* end catDetails page */
+.pl-5, .px-5 {
+    padding-left: 0rem !important;
+
+}
+/* strat category page */
+.category .btn-outline-light {
+    margin-bottom: 28px;
+}
+.category ul {
+    width: 100%;
+}
+.category #myInput {
+    width: 100%;
+    margin-top: 20px;
+}
+.category span {
+    font-size: 14px;
+}
+/* end category page */
+
+/* start login */
+
+.loginPage .container_1 {
+     position: relative;
+    overflow: hidden;
+    width: 450px;
+    max-width: 100%;
+    min-height: 580px;
+    margin-top: 70px;
+}
+.loginPage{
+    padding: 4px;
+}
+
+.loginPage span ,.loginPage .sign {
+    width: 121px;
+}
+.loginPage .social-container,.loginPage a  {
+    width: 159px;
+}
+.loginPage input {
+    width: 176px;
+    position: relative;
+    left: 0;
+}
+.loginPage button {
+    width: 109px;
+    padding: 13px 0px;
+}
+.overlay-panel img {
+    width: 95px;
+}
+.loginPage button.ghost {
+    width: 117px;
+    padding: 15px 0px;
+}
+
+.loginPage .login {
+    padding: 13px 27px;
+}
+.loginPage .desc {
+    width: 127px;
+}
+.loginPage h2 {
+    font-size: 23px;
+}
+/* end login */
+/* Start home page */
+ .h2 {
+font-size:24px;
+}
+.features img {
+    margin-left: 32%;
+}
+.photos .img1, .photos .img2, .photos .img3,.photos .img0 {
+    left: 50px;
+}
+.photos .bgColor-photos {
+    height: 810px;
+}
+.offer .col-lg-4
+{
+    left: 0px;
+}
+/* end home page */
+/* navbar */
+.name {
+    font-size: 33px;
+    position: relative;
+    left: 0px;
+    width: 58%;
+    top: 2px;
+}
+.navbar-nav .nav-link {
+    padding-right: 0;
+}
+.navbar-nav .dropdown-menu {
+   
+    width: 15% !important;
+}
+.naV {
+    height: 115px;}
+.logo img{
+    width: 64px;
+}
+/* end nav bar */
+/* start footer */
+
+ .footer-text p {
+
+    position: relative;
+    left: -21px;
+    width: 184px !important;
+}
+ .footer-logo img {
+    max-width: 137px;
+}
+ .mb-2, .my-2 {
+    width: 144px;
+}
+
+ ul {
+    width: 195px;
+    position: relative;
+    left: -9px;
+    }
+     .col-lg-4 {
+        position: relative;
+        left: 0px    }
+        .catDetails .catImage {
+         
+            right: -8px;
+        }
+    .subscribe-form {
+        position: relative;
+        overflow: hidden;
+        width: 200px;
+    }
+    .cta-text span {
+        color: #f3f3f3;
+        font-size: 16px;
+    }
+    .footer-cta .row
+{
+    margin-bottom: 18px;
+}
+.modal-footer a
+{
+   font-size:13px; 
+}
+.cta-text {
+    width: 161px;
+    top: 20px;
+    position: relative;
+    padding-left: 10px;
+}
+
+.single-cta .fa-map-marker-alt, .single-cta .fa-phone, .single-cta .fa-envelope-open
+{
+    position: relative;
+    font-size: 25px;
+    top: 21px;
+    left: -20px;
+}
+
+/* end footer */
+.infoApp .appStore {
+    width: 100%;
+}
+.infoApp .btnGo {
+    width: 43%;
+    color: white;
+    position: relative;
+    top: 2px;
+    left: 48px;
+
+}
+/* start about page */
+
+    .about {
+        margin:40px 0px; 
+    }
+    .about .col-lg-4 {
+            left: 0px;
+    }
+    .about .faq-nav {
+        position: relative;
+        left: 0px;
+    }
+   .about .tab-content {
+        margin-top: 0px;
+        height: auto !important;
+        padding: 0px;
+        margin-bottom: 0px;
+    }
+/* end about page */
+
+
+
+}
+
+
+/*Start Cart Page*/
+
+.orderNow{
+    width:86%;
+    font-size:11px;
+}
+.strongMsg
+{
+        font-size:13px;
+
+}
+/*End Cart Page*/
+
+
+
+/* Smartphones (landscape) ---------- */
+@media screen and (min-width: 481px)and (max-width: 767px){
+  .naV .nav-link {
+    padding: 8px 3px;
+}
+   .naV {
+height: 40px;}
+.navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 10px !important;
+}
+.navbar-nav .dropdown-menu {
+   
+    width: 15% !important;
+}
+.catDetails .detail ul li {
+    margin: 0 3px;
+}
+.catDetails .catImage {
+    right: -27px;
+}
+.slider
+{
+    height:400px;
+}
+    .photos {
+        height: 800px;    }
+        .photos .bgColor-photos {
+            height: 648px;
+        }
+    
+    .photos img {
+        position: relative;
+        width: 50%;
+        left: 24%;
+        height: 121px;
+    }
+    .searchBox #cancel {
+        position: relative;
+        top: -30px;
+        left: 94%;
+    }
+    .breadcrumb {
+        width: 54px;
+        z-index: 99999;
+    }
+    .features img {
+        width: 30%;
+        margin-left: 32%;
+    }
+
+    .name {
+        font-size: 37px;
+        position: relative;
+        left: 0px;
+    }
+    .logo img{
+        width: 81px;
+    }
+    /* strat category page */
+
+.category ul {
+    width: 100%;
+}
+.category #myInput {
+    width: 100%;
+    margin-top: 20px;
+}
+/* end category page */
+    /* strat home page */
+    .photos .img1, .photos .img2, .photos .img3,.photos .img0{
+        top: 20px;
+        width: 70%;
+        height: 142px;
+        left: 52px;
+        margin-bottom: 20px;
+    }
+
+    /* end home */
+    /* start login */
+    .container_1 {
+		background-color:  #f6f6f6;
+		border-radius: 10px;
+		  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+		position: relative;
+		overflow: hidden;
+		width: 680px;
+		max-width: 100%;
+		min-height: 550px;
+		margin-top: 70px;
+    }
+    /* end login */
+    /* start about page */
+
+    .about {
+        margin:40px 0px; 
+    }
+.about .faq-nav {
+    position: relative;
+left: 0px;
+}
+/* end about page */
+  
+        .infoApp .btnGo {
+            width: 30%;
+        }
+        /* footer page */
+        cta-text {
+            padding-left: 15px;
+            display: inline-block;
+            padding-top: 20px;
+        }
+        .single-cta .fa-map-marker-alt, .single-cta .fa-phone, .single-cta .fa-envelope-open {
+            margin-top: 16px;
+        
+        }
+    }
+    /*Start Cart Page*/
+
+.orderNow{
+    width:89%;
+    font-size:13px;
+}
+.strongMsg
+{
+        font-size:13px;
+
+}
+/*End Cart Page*/
+    @media screen and (min-width: 574px)and (max-width: 767px){
+   /* home page */
+   .navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 10px !important;
+}
+.navbar-nav .dropdown-menu {
+   
+    width: 15% !important;
+}
+   .photos .img1{
+    width: 100%;
+    height: 163px;
+    left: -5px;
+    margin-bottom: 20px;
+}
+.photos .img2{
+    top:40px;
+    width: 100%;
+    height: 163px;
+    left: -5px;
+    margin-bottom: 20px;
+}
+.photos .img3{
+        top:80px;
+    width: 100%;
+    height: 163px;
+    left: -5px;
+    margin-bottom: 20px;
+}
+.photos .img0 {
+    top: -25px;
+    width: 100%;
+    height: 163px;
+    left: -5px;
+    margin-bottom: 20px;
+}
+.photos .bgColor-photos {
+    height: 280px;
+}
+.photos {
+    height: 432px;
+}
+/* end home */
+
+        
+.orderNow{
+    width:45% !important;
+    font-size:13px;
+}
+.strongMsg
+{
+        font-size:13px;
+
+}
+}
+
+    @media screen and (min-width: 768px) and (max-width: 990px){
+.navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 10px !important;
+}
+.navbar-nav .dropdown-menu {
+   
+    width: 15% !important;
+}
+    .searchBox #cancel {
+        position: relative;
+        top: -30px;
+        left: 98%;
+    }
+    .breadcrumb {
+        width: 55px;
+        z-index: 99999;
+    }
+    .orderNow{
+    width:45% !important;
+    font-size:13px;
+}
+.strongMsg
+{
+        font-size:13px;
+
+}
+}
+
+@media screen and (min-width: 990px) and (max-width: 1280px){
+
+    .breadcrumb {
+width: 54px;
+z-index: 99999;
+    }
+ 
+
+
+  /*Start Cart Page*/
+
+.orderNow{
+    width:45% !important;
+    font-size:13px;
+}
+.strongMsg
+{
+        font-size:13px;
+
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 0.1rem !important;
+    padding-left: .6rem !important;
+    font-size: 14px !important;
+}
+.navbar li {
+ 
+    left: 32px;
+}
+}
+/*End Cart Page*/
+
+
+@media screen and (min-width: 1280px){
+
+  /*Start Cart Page*/
+
+.orderNow{
+    width:45% !important;
+    font-size:13px;
+}
+.strongMsg
+{
+        font-size:15px;
+
+}
+/*End Cart Page*/
+
+}
